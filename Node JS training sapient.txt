@@ -1,0 +1,88 @@
+104867
+
+Node JS Sapient Training - Nov 2017
+
+https://github.com/tkmagesh?tab=repositories
+
+
+-- Never right a CPU intensive task in Node js (like For loop in program which will take time )
+
+-- whenever there is dom change in function , repaint screen happens
+
+
+-- settimeout also repaints( least execution unit is a function) -- very expensive, takes around 4 ms
+
+--setImmedidate
+
+-- require() function to import
+-- require () imports singleton, only object
+
+ 
+https://www.youtube.com/playlist?list=PL2OMOVtxSKTjfubrJEoJwJa1BfhbHxpzx
+
+--package.json for bundle making
+
+
+https://www.npmjs.com/
+
+chalk
+
+npm install chalk --save
+
+
+-- Node Express
+
+
+npm install express-generator -g
+
+http://handlebarsjs.com/
+
+expressjs.com
+
+-- let vs var,  const, arrayDestructing, restOperator, SpreadOperator, arrow functions, classes, inheritance
+
+node.green
+
+http://es5-features.org
+
+
+
+
+npm install nodemon --save-dev
+
+node mon to do auto deploy 
+
+express session middleware
+
+bit.ly/javascript-training-videos
+
+bit.ly/node-training-videos
+
+favicon module
+
+memoize
+
+promise object-  promises does additional work of delegation differnce
+
+bluebird
+
+-- server side events
+-- long polling
+
+socket.io
+passport
+
+
+node weekly newsletter
+
+
+
+-- mocha, jasmine test framework
+chai js for asserts
+sinon module for stubbing and mocking
+
+Jasmine has Spice inbuilt for mocking
+
+
+Radio. js for pub sub. 
+
